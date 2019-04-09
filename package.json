@@ -1,0 +1,23 @@
+{
+  "name": "react-counter",
+  "version": "1.0.0",
+  "description": "toDoReact",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuneDev5779/intro-to-react.git"
+  },
+  "keywords": [
+    "npm",
+    "search"
+  ],
+  "author": "juneDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuneDev5779/intro-to-react/issues"
+  },
+  "homepage": "https://github.com/JuneDev5779/intro-to-react#readme"
+}
