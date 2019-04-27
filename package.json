@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "react-to-do",
   "version": "0.1.0",
   "private": true,
@@ -22,4 +23,27 @@
     "not ie <= 11",
     "not op_mini all"
   ]
+=======
+  "name": "react-counter",
+  "version": "1.0.0",
+  "description": "toDoReact",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuneDev5779/intro-to-react.git"
+  },
+  "keywords": [
+    "npm",
+    "search"
+  ],
+  "author": "juneDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuneDev5779/intro-to-react/issues"
+  },
+  "homepage": "https://github.com/JuneDev5779/intro-to-react#readme"
+>>>>>>> 79f47ffe6b6bd187f109496d5d595e02bb0c5664
 }
